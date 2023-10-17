@@ -206,7 +206,7 @@ body {
 }
 
 .swiper-container button {
-    width: 50%;
+    width: fit-content;
     padding: 15px;
     border: 1px solid rgb(4, 4, 82);
     border-top-right-radius: 40px;
@@ -495,7 +495,7 @@ body{
     }
 
     .swiper-container button {
-        width: 28%;
+        width: fit-content;
         padding: 10px;
         border: 1px solid rgb(4, 4, 82);
         border-top-right-radius: 40px;
