@@ -140,6 +140,8 @@ body {
 
 .text-container h1 {
     text-align: start;
+    font-weight: bolder;
+    font-size: 2.5rem;
 }
 
 .text-container button {
@@ -450,7 +452,8 @@ body{
 
     .text-container h1 {
         text-align: start;
-        font-size: x-large;
+        font-weight: bolder;
+        font-size: 2rem;
     }
     
     .text-container button {
@@ -538,12 +541,13 @@ body{
   
     .text-container p {
         text-align: start;
-        line-height: 1.5rem;
+        line-height: 2.5rem;
     }
 
     .text-container h1 {
         text-align: start;
-        font-size: xx-large;
+        font-weight: bolder;
+        font-size: 2.5rem;
     }
     
     .text-container button {
@@ -632,7 +636,7 @@ body{
 
     .text-container p {
         text-align: left;
-        line-height: 2rem;
+        line-height: 2.5rem;
         font-size: larger;
     }
 

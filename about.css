@@ -142,6 +142,9 @@ body {
     text-align: start;
     margin: 0 auto;
     margin-bottom: 30px;
+    font-weight: bolder;
+    font-size: 2.5rem;
+   
 }
 
 .quote-container {
@@ -441,7 +444,8 @@ body{
 
     .text-container h1 {
         text-align: start;
-        font-size: x-large;
+        font-weight: bolder;
+        font-size: 1.5rem;
     }
 
     .quote-container {
@@ -539,7 +543,8 @@ body{
 
     .text-container h1 {
         text-align: start;
-        font-size: xx-large;
+        font-weight: bolder;
+        font-size: 2rem;
     }
 
     .text-container p {
