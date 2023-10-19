@@ -118,9 +118,12 @@ body {
 }  
 
 .main-container img {
-    width: 90%;
-    margin-top: 100px;
+    width: 100%;
     border-radius: 20px;
+    place-items: center;
+    place-content: center;
+    place-self: center;
+    margin-bottom: -100px;
 }
 
 .text-container {
@@ -142,7 +145,7 @@ body {
     text-align: start;
     margin: 0 auto;
     margin-bottom: 30px;
-    
+    place-self: center;
 }
 
 .quote-container {
