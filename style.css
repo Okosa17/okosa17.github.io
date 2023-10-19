@@ -140,8 +140,6 @@ body {
 
 .text-container h1 {
     text-align: start;
-    font-weight: bolder;
-    font-size: 2.5rem;
 }
 
 .text-container button {
@@ -452,8 +450,6 @@ body{
 
     .text-container h1 {
         text-align: start;
-        font-weight: bolder;
-        font-size: 2rem;
     }
     
     .text-container button {
@@ -546,8 +542,6 @@ body{
 
     .text-container h1 {
         text-align: start;
-        font-weight: bolder;
-        font-size: 2.5rem;
     }
     
     .text-container button {
