@@ -120,10 +120,15 @@ body {
     place-self: center;
     object-fit: cover;
     border-radius: 20px;
+    transition: all 0.1s linear;
+   
 }
+
+
 
 .wrapper-container img:hover {
     transform: scale(0.98);
+   
 }
 
 .content p {
@@ -392,6 +397,12 @@ body{
         width: 100%;
         height: 500px;
         place-self: center;
+        filter: brightness(50);
+        filter: grayscale(100%);
+    }
+    .wrapper-container img:hover {
+        filter: brightness(0);
+        filter: grayscale(0);
     }
     
     .content p {

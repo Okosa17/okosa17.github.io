@@ -10,7 +10,6 @@
 body {
     overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
-    
 }
 
 .container {
@@ -122,6 +121,8 @@ body {
     border-radius: 20px;
     object-fit: cover;
 }
+
+
 
 .text-container {
     width: 90%;
