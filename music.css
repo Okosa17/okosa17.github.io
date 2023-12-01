@@ -64,6 +64,7 @@ body {
     right: -100%;
     text-align: center;
     z-index: 98;
+    
 }
 
 .navbar ul li {
@@ -89,7 +90,7 @@ body {
     width: 100%;
     left: 0;
     background-color: #fff;
-    transition: 0.3s;
+    transition:all 0.3s;
     transition-timing-function: ease-in-out;
     transform: scaleX(0);
 }
