@@ -38,7 +38,7 @@ body {
     cursor: pointer;
     font-size: x-large;
     margin-right: 20px;
-    color: black;
+    color: red;
 }
 
 #check:checked ~ ul {
